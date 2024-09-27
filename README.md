@@ -1,7 +1,9 @@
-# ~/.tmux.conf
-<img width="1280" alt="Screenshot 2024-09-27 at 1 11 34 AM" src="https://github.com/user-attachments/assets/98ecb75a-cdfa-4856-b09a-5ffb5822e25b">
+# ~/.tmux
+<img width="1280" alt="Screenshot 2024-09-27 at 2 47 03 PM" src="https://github.com/user-attachments/assets/a4a0002d-33b1-45ba-acb9-f9c06ab5944d">
 
 # plugins used
+*every plugin works out of the box, except for tmux-power. tmux-power has been customized to display the current song playing on spotify.*
+
 | plugin | description |
 |--------|-------------|
 | **[tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)** | saves sessions every 15 minutes |
